@@ -5,7 +5,12 @@ Replace this with your project title
    :maxdepth: 2
    :caption: Contents:
 
-   subject/index
-   another_subject/index
-   more_stuff/index
+   american_cheese/index
+   brie/index
+   feta/index
+   gruyere/index
+   mozzarella/index
+   parmesan/index
+   ricotta/index
+   swiss_cheese/index
 
