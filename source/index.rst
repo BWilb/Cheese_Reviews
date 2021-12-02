@@ -1,4 +1,4 @@
-Replace this with your project title
+Cheese Reviews
 ====================================
 
 .. toctree::
