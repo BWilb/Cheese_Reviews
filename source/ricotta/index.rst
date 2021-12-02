@@ -1,4 +1,4 @@
-My Subject
+Ricotta
 ==========
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
