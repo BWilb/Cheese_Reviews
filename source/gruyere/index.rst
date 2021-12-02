@@ -1,10 +1,12 @@
 Gruyere Cheese
 ==============
 
-Gruyere cheese is
 
 History
 -------
+
+Description
+-----------
 
 
 Taste Review
