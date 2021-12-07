@@ -5,7 +5,7 @@ meaning that it can be eaten in slices, like on a sandwich or as part of a
 cheese platter. It also is a great cheese for melting and as a result is very
 commonly used to make fondues.
 
-..Image:: download.jfif
+.. image:: /gruyere/download.jfif
 
 History
 -------
