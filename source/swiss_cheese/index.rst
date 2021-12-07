@@ -44,13 +44,14 @@ ingredients. You can also view a recipe for homemade swiss cheese down below.
     - Animal rennet
     - Vegetable rennet
 
-
 Uses
 ~~~~~
 The only use swiss cheese has is with cooking or snacking. Swiss cheese could
 be used as a topping for a multitude of dishes, including...
 
-===========  ==========  ==========
-sandwiches   tacos       lasagna
-pizza        pasta       spaghetti
-===========  ==========  ==========
+==============  =============  =============
+sandwiches      tacos          lasagna
+pizza           pasta          spaghetti
+eggs            burritos       mac & cheese
+==============  =============  =============
+
