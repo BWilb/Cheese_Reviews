@@ -28,9 +28,11 @@ smell makes it seem as if the cheese had just been freshly produced and come str
 from the manufacturing warehouse.
 
 Ingredients
-------------
+~~~~~~~~~~~~
 If you were wanting to make swiss cheese, you'd need the following list of
-ingredients.
+ingredients. You can also view a recipe for homemade swiss cheese down below.
+
+`Swiss Cheese recipe <https://www.culturesforhealth.com/learn/recipe/cheese-recipes/swiss-cheese/>`_.
 
 - Dairy products
     - Fresh milk
@@ -42,17 +44,13 @@ ingredients.
     - Animal rennet
     - Vegetable rennet
 
-`Swiss Cheese recipe <https://www.culturesforhealth.com/learn/recipe/cheese-recipes/swiss-cheese/>`_.`
-
 
 Uses
-------
+~~~~~
 The only use swiss cheese has is with cooking or snacking. Swiss cheese could
 be used as a topping for a multitude of dishes, including...
 
-=======   =======
-pizza     pasta
-=======   =======
-lasagna
-- lasagna
-- spaghetti
+===========  ==========  ==========
+sandwiches   tacos       lasagna
+pizza        pasta       spaghetti
+===========  ==========  ==========
