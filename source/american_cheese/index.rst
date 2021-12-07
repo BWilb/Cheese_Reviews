@@ -7,7 +7,6 @@ History
 
 Taste
 ----------
-
 For many people, american cheese tastes like plastic. This is probably due to the
 fact that this type of cheese contains highly processed ingredients. This thought
 is the same for me. When I first bit into the piece of cheese, it quickly melted
