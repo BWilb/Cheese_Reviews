@@ -1,6 +1,8 @@
 Brie Cheese
 ===========
 
+
+
 Brie is a soft and creamy cheese that originated in France and is traditionally
 made from cow milk but can also be made from the milk of goats as well. It has
 a rind of white mold which is considered a delicacy. Originating in
@@ -23,7 +25,7 @@ Uses
 It is generally served at room temperature alongside fruit, crackers, nuts and
 other cheeseboard accouterments and it can be also served baked wrapped in
 pastry and served with bread and fruit or in gratins, casseroles, sauces,
-grilled cheese sandwiches, and panini, or on pizzas and flatbreads.
+grilled cheese sandwiches, and panini, or on pizzas and flat breads.
 
 
 Taste Review
