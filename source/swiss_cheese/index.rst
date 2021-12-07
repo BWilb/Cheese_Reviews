@@ -42,7 +42,7 @@ ingredients.
     - Animal rennet
     - Vegetable rennet
 
-.. Swiss cheese recipe _`https://www.culturesforhealth.com/learn/recipe/cheese-recipes/swiss-cheese/`_.
+`Swiss Cheese recipe <https://www.culturesforhealth.com/learn/recipe/cheese-recipes/swiss-cheese/>`_.`
 
 
 Uses
@@ -50,7 +50,9 @@ Uses
 The only use swiss cheese has is with cooking or snacking. Swiss cheese could
 be used as a topping for a multitude of dishes, including...
 
-- pizza
-- pasta
+=======   =======
+pizza     pasta
+=======   =======
+lasagna
 - lasagna
 - spaghetti
