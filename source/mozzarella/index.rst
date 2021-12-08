@@ -3,7 +3,7 @@ Mozzarella
 
 .. image:: /mozzarella/mozzarellapic.jpg
 
-`Mozzarella Cheese <https://www.nutritionadvance.com/mozzarella-cheese-nutrition-facts/>`_
+Mozzarella Cheese [#f1]_.
 
 Description
 -----------
@@ -31,7 +31,7 @@ that can be enjoyed on both hot and cold foods.
 History
 -------
 
-Originating from Southern Italy, Mozzarella is a cheese that has a long line
+Originating from Southern Italy, mozzarella is a cheese that has a long line
 history dating back to the Romans who produced a similar cheese. It was made
 from sheep milk but then eventually changed to be created from `buffalo <https://sallybernstein.com/food/single-article
 s/mozzarella.htm>`_ milk.
@@ -87,3 +87,7 @@ Health Benefits
 
 3. Low calories.
 	Mozzarella is near the top of the list for being low in calories compared to other cheeses.
+
+.. rubric:: Footnotes
+
+.. [#f1] `Mozzarella Cheese <https://www.nutritionadvance.com/mozzarella-cheese-nutrition-facts/>`_

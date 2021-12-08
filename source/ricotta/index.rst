@@ -80,7 +80,7 @@ Health Benefits
 2. High in calcium.
 	Like other fresh cheeses, Ricotta is a great source of daily calcium intake.
 
-3. Low calories.
+3. Gluten free.
 	It is rich in vitamins and minerals for those with allergies to gluten.
 
 .. rubric:: Footnotes
