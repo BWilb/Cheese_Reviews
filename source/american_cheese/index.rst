@@ -24,3 +24,8 @@ Ingredients
 
 Uses
 ~~~~~~
+
+
+.. warning::
+    American cheese tastes awful when eaten in single slices. If you would like
+    to improve your experience with american cheese, eat it on a sandwich!!!!

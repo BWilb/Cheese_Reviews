@@ -25,7 +25,10 @@ Smell
 ------
 Swiss cheese has a more authentic smell than american cheese. The aroma of the
 smell makes it seem as if the cheese had just been freshly produced and come straight
-from the manufacturing warehouse.
+from the manufacturing warehouse. Swiss cheese's mild smell also prevents me from
+feeling like I want to vomit after placing it in my mouth, unlike american cheese.
+This would probably be due to the smell receptors in the back of my throat; that
+every human does have.
 
 Ingredients
 ~~~~~~~~~~~~
