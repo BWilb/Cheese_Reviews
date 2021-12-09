@@ -4,7 +4,7 @@ American Cheese
    :width: 300px
    :height: 200px
 
-   American cheese [#f1]_
+American cheese [#f1]_
 
 American cheese is commonly referred to as a processed cheese, instead of either
 a soft or hard cheese. It can either be served as a single slice or chunks.
@@ -59,7 +59,8 @@ mac & cheese    pizza
 
 .. warning::
     American cheese tastes awful when eaten in single slices. If you would like
-    to improve your experience with american cheese, eat it with a sandwich!!!!\
+    to improve your experience with american cheese, eat it with a sandwich!!!!
+
+.. rubric:: footnotes
 
 .. [#f1] "`American Cheese <http://www.simplycheese.net/american-cheese-27.aspx>`_".
-    Simply Cheese. 2021. Retrieved 2021-12-09.

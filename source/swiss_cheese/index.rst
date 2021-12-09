@@ -4,7 +4,8 @@ Swiss Cheese
    :width: 300px
    :height: 200px
 
-   Swiss Cheese [#f1]_
+Swiss Cheese [#f1]_.
+
 Swiss cheese is a style of cheese, originating from Switzerland. It's most likely
 to appear white or yellow with decent sized holes all around a slice or chunk
 of Swiss. Its the type of cheese that's most likely shown up in old fashioned
@@ -69,5 +70,6 @@ pizza           pasta          spaghetti
 eggs            burritos       mac & cheese
 ==============  =============  =============
 
+.. rubric:: footnotes
+
 .. [#f1] "`Aged Swiss Cheese <https://goldenagecheese.com/product/aged-swiss-cheese-3/>`_".
-    Golden Age Cheese. 2021. Retrieved 2021-12-08.
