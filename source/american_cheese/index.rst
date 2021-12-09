@@ -1,6 +1,7 @@
 American Cheese
 ================
-American cheese(left off on thought).
+American cheese can either appear in single slices or chunks of cheese, with
+a yellow or whitish color.
 
 History
 -------

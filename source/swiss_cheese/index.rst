@@ -7,11 +7,15 @@ cartoons involving mice and cats, like Tom and Jerry.
 
 History of Swiss Cheese
 ------------------------
+`History of swiss cheese <https://www.cheesesfromswitzerland.com/en/production/the-history-of-cheese-in-switzerland>`_.
+
 Swiss cheese was developed in Switzerland around the 14th century. Before then
 cheese makers had been making cheese since Neolithic times. As Swiss people
 began to incorporate more foods into their diet, specific cheeses gain surpluses.
 This allowed cheeses made in Switzerland to travel outside of Switzerland and into
-neighboring territories.
+neighboring territories. Around the 1800's, swiss cheese as we know of it, came
+into production, with the experimentation of Switzerland's lowland valleys and
+central plateau
 
 Taste
 ----------
@@ -25,10 +29,8 @@ Smell
 ------
 Swiss cheese has a more authentic smell than american cheese. The aroma of the
 smell makes it seem as if the cheese had just been freshly produced and come straight
-from the manufacturing warehouse. Swiss cheese's mild smell also prevents me from
-feeling like I want to vomit after placing it in my mouth, unlike american cheese.
-This would probably be due to the smell receptors in the back of my throat; that
-every human does have.
+from the manufacturing warehouse. Swiss cheese's mild smell also prevents you from
+feeling like you want to vomit after placing it in your mouth, unlike american cheese.
 
 Ingredients
 ~~~~~~~~~~~~
@@ -49,12 +51,12 @@ ingredients. You can also view a recipe for homemade swiss cheese down below.
 
 Uses
 ~~~~~
-The only use swiss cheese has is with cooking or snacking. Swiss cheese could
-be used as a topping for a multitude of dishes, including...
+Swiss cheese has a couple uses; cooking and/or snacking. If used in cooking,
+swiss cheese could be used as a topping or ingredient for a multitude of
+dishes, including...
 
 ==============  =============  =============
 sandwiches      tacos          lasagna
 pizza           pasta          spaghetti
 eggs            burritos       mac & cheese
 ==============  =============  =============
-
