@@ -1,5 +1,10 @@
 Swiss Cheese
 =============
+.. figure:: swiss.jpg
+   :width: 300px
+   :height: 200px
+
+   Swiss Cheese [#f1]_
 Swiss cheese is a style of cheese, originating from Switzerland. It's most likely
 to appear white or yellow with decent sized holes all around a slice or chunk
 of Swiss. Its the type of cheese that's most likely shown up in old fashioned
@@ -15,7 +20,8 @@ began to incorporate more foods into their diet, specific cheeses gain surpluses
 This allowed cheeses made in Switzerland to travel outside of Switzerland and into
 neighboring territories. Around the 1800's, swiss cheese as we know of it, came
 into production, with the experimentation of Switzerland's lowland valleys and
-central plateau
+central plateau dairy farms. The two pioneers were Phillip Emaneul von Fellenberg
+and Rudolf Emanuel von Effinger.\
 
 Taste
 ----------
@@ -60,3 +66,6 @@ sandwiches      tacos          lasagna
 pizza           pasta          spaghetti
 eggs            burritos       mac & cheese
 ==============  =============  =============
+
+.. [#f1] "`Aged Swiss Cheese <https://goldenagecheese.com/product/aged-swiss-cheese-3/>`_".
+   Golden Age Cheese. 2021. Retrieved 2021-12-08.
