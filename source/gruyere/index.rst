@@ -7,6 +7,8 @@ commonly used to make fondues.
 
 .. image:: /gruyere/download.jfif
 
+
+
 History
 -------
 It is made from whole milk and is generally cured
@@ -32,4 +34,12 @@ on it it becomes stronger and stronger. It is a very firm cheese, and it
 chews much differently than a lot of other cheeses that I have had in a long time.
 I enjoy this taste and it would make a great base for soups or as toppings for a
 sandwich, or on the top of a cracker as part of a cheese board.
+See the delicious cheese back a the top of the page.
+
+If you want to see the brie review I posted, see :ref:`reference-label`.
+
+
+To purchase the cheese from this review see `Culinary Tours <https://culinarytoursfoods.com/all-products/>`_.
+
+
 

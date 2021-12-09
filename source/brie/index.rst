@@ -1,7 +1,13 @@
+.. _reference-label:
+
 Brie Cheese
 ===========
+.. note::
+    If you don't like awesome cheese, this isnt the page for you!
 
+.. figure:: brie.jfif
 
+     The Spruce Eats [#f1]_
 
 Brie is a soft and creamy cheese that originated in France and is traditionally
 made from cow milk but can also be made from the milk of goats as well. It has
@@ -17,8 +23,17 @@ importation, which would make it past its time for eating. Luckily there is a
 stabilized version of the delicious spread that France exports so that the US
 markets don’t miss out completely on French Brie. The difference between raw
 and pasteurized milks means that the cheese becomes generally milder in
-flavor than authentic French brie
+flavor than authentic French brie.
 
+============  ========================
+American      French
+============  ========================
+Stabilized    **Unstable**
+*Smoother*    **Illegal in USA**
+Pasteurized   reaches full ripeness
+Never Ripens  Bolder
+              Much more complex taste
+============  ========================
 
 Uses
 ----
@@ -31,7 +46,7 @@ grilled cheese sandwiches, and panini, or on pizzas and flat breads.
 Taste Review
 ------------
 The Brie that I am reviewing is French style Culinary Tours double cream Brie.
-On the nose it is a strong smelling cheese, this cheese doesn’t mess around
+On the nose it is a *strong smelling cheese*, this cheese doesn’t mess around
 with its pine notes. It is a mild yellow and white rind, and is very spongy
 inside while the rind is tough. This cheese is really nice and smooth.
 While cold, it is much harder than usual to spread but that is to be expected.
@@ -44,3 +59,7 @@ and has all the taste that I was expecting. I wonder how this would stack agains
 the cheeses from France. This cheese would pair nicely with crackers and a
 nice red wine. Especially on the flowing fields of France, as part of
 a picnic in the hills.
+
+
+.. [#f1] "`Brie Cheese <https://th.bing.com/th/id/OIP.TmFkgZST6LiC2wLSqrRDYwHaE8?w=261&h=180&c=7&r=0&o=5&pid=1.7>`_".
+   The Promise Land Farm. 2019. Retrieved 2021-12-7.
