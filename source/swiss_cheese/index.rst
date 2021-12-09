@@ -15,13 +15,15 @@ History of Swiss Cheese
 `History of swiss cheese <https://www.cheesesfromswitzerland.com/en/production/the-history-of-cheese-in-switzerland>`_.
 
 Swiss cheese was developed in Switzerland around the 14th century. Before then
-cheese makers had been making cheese since Neolithic times. As Swiss people
+cheese makers had been making cheese since Neolithic times. However, cheese from
+Switzerland didn't become popular until the mid-late Renaissance age. As Swiss people
 began to incorporate more foods into their diet, specific cheeses gain surpluses.
 This allowed cheeses made in Switzerland to travel outside of Switzerland and into
-neighboring territories. Around the 1800's, swiss cheese as we know of it, came
-into production, with the experimentation of Switzerland's lowland valleys and
-central plateau dairy farms. The two pioneers were Phillip Emaneul von Fellenberg
-and Rudolf Emanuel von Effinger.\
+neighboring territories, improving upon the popularity of cheeses from Switzerland.
+Around the 1800's, modern swiss cheese as we know of it, came into production,
+with the experimentation of Switzerland's lowland valleys and central plateau
+dairy farms. The two pioneers of these types of farms were Phillip Emaneul von
+Fellenberg andRudolf Emanuel von Effinger.
 
 Taste
 ----------
@@ -68,4 +70,4 @@ eggs            burritos       mac & cheese
 ==============  =============  =============
 
 .. [#f1] "`Aged Swiss Cheese <https://goldenagecheese.com/product/aged-swiss-cheese-3/>`_".
-   Golden Age Cheese. 2021. Retrieved 2021-12-08.
+Golden Age Cheese. 2021. Retrieved 2021-12-08.
