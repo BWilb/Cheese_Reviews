@@ -27,8 +27,8 @@ Fellenberg andRudolf Emanuel von Effinger.
 
 Taste
 ----------
-Whenever I eat a slice of swiss cheese, the initial bite tastes really bland.
-However, when I chew the bite more and more, the flavor starts to take shape.
+The initial tasting of a bite of swiss cheese can seem almost sort of bland.
+However, when its chewed more and more, the flavor starts to take shape.
 Swiss cheese has a sweet curdled taste, similar to cheese topping found in Italian
 pizza restaurants. If you really focus in on the taste, you can also sense
 a buttery flavor as well.
@@ -70,4 +70,4 @@ eggs            burritos       mac & cheese
 ==============  =============  =============
 
 .. [#f1] "`Aged Swiss Cheese <https://goldenagecheese.com/product/aged-swiss-cheese-3/>`_".
-Golden Age Cheese. 2021. Retrieved 2021-12-08.
+    Golden Age Cheese. 2021. Retrieved 2021-12-08.

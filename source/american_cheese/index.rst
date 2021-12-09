@@ -1,11 +1,25 @@
 American Cheese
 ================
+.. figure:: american_cheese.jpg
+   :width: 300px
+   :height: 200px
+
+   American cheese [#f1]_
+
 American cheese is commonly referred to as a processed cheese, instead of either
 a soft or hard cheese. It can either be served as a single slice or chunks.
 This style of cheese often contains a white or yellow tint.
 
 History
 -------
+`American cheese history <https://www.mentalfloss.com/article/20537/brief-history-american-cheese-colonial-cheddar-kraft-singles>`_.
+
+Modern american cheese developed around 1851, by Jesse Williams after he pooled
+together left over milk from his surrounding community. James Kraft picked it up
+the craft in 1903, which his product gained popularity during World War Two. James
+was also the pioneer who crafted the american cheese in the pasturizing process.
+Which means, he basically just shoved a bunch of fats and liquids in the cheese
+alongside the milk and other natural cheese ingredients.
 
 Taste
 ----------
@@ -45,4 +59,7 @@ mac & cheese    pizza
 
 .. warning::
     American cheese tastes awful when eaten in single slices. If you would like
-    to improve your experience with american cheese, eat it with a sandwich!!!!
+    to improve your experience with american cheese, eat it with a sandwich!!!!\
+
+.. [#f1] "`American Cheese <http://www.simplycheese.net/american-cheese-27.aspx>`_".
+    Simply Cheese. 2021. Retrieved 2021-12-09.
