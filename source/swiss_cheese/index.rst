@@ -73,3 +73,6 @@ eggs            burritos       mac & cheese
 .. rubric:: footnotes
 
 .. [#f1] "`Aged Swiss Cheese <https://goldenagecheese.com/product/aged-swiss-cheese-3/>`_".
+
+
+go view our :ref:`american_cheese`, page as well.

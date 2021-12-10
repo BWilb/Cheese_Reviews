@@ -1,3 +1,5 @@
+.. _american_cheese:
+
 American Cheese
 ================
 .. figure:: american_cheese.jpg
