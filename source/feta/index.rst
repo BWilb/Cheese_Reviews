@@ -1,35 +1,104 @@
 Feta
 ====
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
-efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
-tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
-fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
-amet enim fermentum ultricies pharetra sit amet est.
+.. image:: /feta/feta.jpg
+
+Feta Cheese [#f1]_.
+
+Description
+-----------
+
+Feta cheese is usually produced from either goat or sheep's milk, but there are cow's milk
+varieties as well. It is a soft white brined cheese with a nutty strong aroma. While textures and flavors
+vary from region to region, most commonly the texture can be described as crumbly and grainy with a
+salty and tangy taste. The taste comes from the brine or pickled solution the block of cheese
+is submerged in.
+
+Feta is commonly found in salads and pizzas - :ref:`feta_recipes`
 
 History
 -------
 
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
+Feta Cheese is one of the oldest known cheeses [#f2]_. Around 8,000 years ago in Greece
+when people began domesticating animals such as goats, cows and sheep, the cheese making process
+was discovered, probably much by accident. The legends of how feta cheese was first created
+are very tied to Greek mythology. The stories tell of a son of Apollo sent by the gods to
+teach humans how to make cheese. This first cheese then directly led to the creation of feta
+and the process has not changed much since then.
 
-Aliquam ex lorem, molestie at finibus quis, ullamcorper et purus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Vivamus dictum interdum pulvinar.
-
-In molestie augue id orci
-aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
-rhoncus sapien, sit amet semper ante elit non purus. Cras ac laoreet neque.
-Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
-lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
-Pellentesque quis porta urna.
+Only cheese manufactured in the Greek regions of Macedonia, Thrace, Thessaly, Central Mainland Greece,
+The Peloponnese, Lesvos and Island of Kefalonia are legally allowed to be called 'feta'. Other cheeses
+made by similar processed outside of these regions are often called 'white cheese' instead.
 
 
-Reviews
+.. _feta_recipes:
+
+Recipes
 -------
+
+As feta has been around so long, there are many cultures that have incorporated feta
+into their recipes. Still Greek recipes are probably the most well known uses for feta.
+
+Here are some feta recipes that are easy to prepare and enjoy!
+
+- Greek Salad
+
+- Baked Feta with tomatoes and basil
+
+- Greek Fries
+
+- Spinach Feta Grilled Cheese
+
+- Greek Stuffed Peppers
+
+- Feta Flatbread
+
+- Baked Feta Rice
+
+- Red Pepper and Feta Frittata
+
+- Mediterranean Chickpea Salad
+
+
+For these feta recipes and more continue to `Insanely Good '30 Best Feta Cheese Recipes' <https://insanelygoodrecipes.com/feta-cheese-recipes/>`_
+
+Health Benefits
+---------------
+
+
++--------------------------------+
+| Nutrition Facts                |
++=================+==============+
+| Serving Size:   |      1 oz    |
++-----------------+--------------+
+| Calories:       |      76      |
++-----------------+--------------+
+| Total Fat:      |      6g      |
++-----------------+--------------+
+| Sodium:         |      258mg   |
++-----------------+--------------+
+| Protein:        |      5g      |
++-----------------+--------------+
+| Calcium:        |      70mg    |
++-----------------+--------------+
+| Potassium:      |      18mg    |
++-----------------+--------------+
+| Cholesterol:    |      21mg    |
++-----------------+--------------+
+
+
+Feta cheese is a great source of calcium and phosphorus. It also contains other necessary minerals
+such as iron, magnesium, zinc and potassium. However there are some health concerns
+with the high cholesterol, saturated fat, and sodium content.
+
+.. warning::
+    Feta should be an occasional indulgence [#f3]_
+
+
+.. [#f1] `Feta Cheese <https://cdn.shopify.com/s/files/1/2836/2982/products/feta-cheese-making-recipe-beginner_grande.jpg?v=1604199344>`_
+
+.. [#f2] `History <http://www.realgreekfeta.gr/history-of-feta/>`_
+
+.. [#f3] `Nutritional Value <http://www.realgreekfeta.gr/nutritional-value/>`_
+
+
