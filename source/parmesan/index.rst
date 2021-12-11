@@ -1,68 +1,101 @@
 Parmesan
 ========
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
-efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
-tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
-fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
-amet enim fermentum ultricies pharetra sit amet est.
+.. image:: /parmesan/ParmesanCheese.jpg
 
-History
--------
-
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
-
-Aliquam ex lorem, molestie at finibus quis, ullamcorper et purus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Vivamus dictum interdum pulvinar.
-
-In molestie augue id orci
-aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
-rhoncus sapien, sit amet semper ante elit non purus. Cras ac laoreet neque.
-Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
-lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
-Pellentesque quis porta urna.
+Parmesan Cheese [#f1]_.
 
 Description
 -----------
 
-Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
-lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
-et dapibus eros porttitor at. Phasellus auctor, elit nec ultricies fermentum,
-sem augue volutpat mi, eget malesuada metus purus ut dolor. Aenean posuere
-tortor ligula, vitae ultrices tellus eleifend ac. Morbi velit magna,
-sollicitudin vitae aliquet sed, tincidunt non enim. Vivamus tempus eros ac
-purus varius suscipit. Aliquam eu egestas metus.
+Parmigiano-Reggiano, also referred to as Parmesan Cheese, is an artisan cheese made from cow's milk, salt and rennet.
+This cheese typically has a hard and gritty texture. The flavor can be described as fruity, nutty and sharp. It is
+known to have a distinct strong smell and be the color of straw. It is most often used
+in pasta dishes.
 
-Morbi augue turpis, imperdiet non turpis quis, consequat varius quam.
-Suspendisse imperdiet dapibus arcu viverra aliquam. Fusce eu mauris turpis.
-Nullam auctor, purus et imperdiet tristique, lacus lorem vehicula sapien,
-a tempus quam ex vitae mi. Cras nec lobortis mi. Integer ultricies ornare
-sagittis. Praesent elementum sem justo, vel rhoncus orci fringilla vitae.
-Sed gravida urna neque, vel convallis metus dapibus ut. Mauris euismod quam
-ante, quis interdum erat viverra id. Aliquam bibendum laoreet odio at imperdiet.
-Morbi placerat, leo id tincidunt iaculis, nulla nunc luctus massa, et vulputate
-nisi est et nibh. In gravida ut ligula non sodales. Phasellus porttitor varius
-iaculis.
+For more uses head to :ref:`recipes`.
 
-Maecenas malesuada blandit tellus, id fringilla sem tempor eget. Morbi maximus
-euismod bibendum. Maecenas sit amet dolor ut orci tristique elementum.
-Suspendisse scelerisque porta metus, at tincidunt mi. Duis et mauris at enim
-finibus maximus. Nunc vel justo ex.
-
-Vivamus ultricies eros ante, nec egestas
-lorem fermentum id. Aliquam erat volutpat. Aenean tempus eu mi a elementum.
-Donec sit amet iaculis sapien. Proin imperdiet hendrerit sem quis tempus.
-Etiam metus augue, ornare consequat magna ut, malesuada mollis erat. Etiam
-porta efficitur sapien sed congue. In tristique est urna, sit amet varius
-enim finibus sed.
-
-Reviews
+History
 -------
+
+Parmesan Cheese originated in the Italian provinces of Parma, Reggio Emilia, Modena,
+Bologna and Mantua around 900 years ago. These regions are known for their grass-fed cows
+and thus high quality milk full of nutrients. In fact it is regulated that for a cheese to be called parmesan
+it must be produced from cow's milk and aged for at least 10 months.
+In some stricter cases, it must be produced from grass or hay fed cows.
+
+.. _recipes:
+
+Recipes
+-------
+
+Parmesan is `'considered to be among the top cheeses by cheese connoisseurs' <https://www.cheese.com/parmesan/>`_ .
+It is used in a number of pasta dishes, grated over soups and salads,
+or can be eaten on its own as a snack. It is a staple for charcuterie boards!
+
+As a reminder, Parmesan cheese almost always has a better taste if purchased
+in a block and cut or shredded when it is ready to be used.
+It is also best to avoid parmesan in bottles or shakers as most of these blends
+are packed with additional ingredients and fillers such as cellulose.
+
+
+.. warning::
+    Labels can be misleading when buying inferior or cheaper parmesan blends
+
+
+Here are some popular dishes using parmesan that **everyone** should try:
+
+- Fettuccine Alfredo
+
+- Lasagna
+
+- Cheesy Garlic Bread
+
+- Chicken Caesar Salad
+
+- Chicken Parmesan
+
+- Ziti Bake
+
+- Parmesan Potatoes
+
+
+For more recipes head over to `Taste of Home '50 Recipes That Make the Most of Parmesan Cheese' <https://www.tasteofhome.com/collection/parmesan-cheese-recipes/>`_
+
+
+Health Benefits
+---------------
+
++--------------------------------+
+| Nutrition Facts                |
++=================+==============+
+| Serving Size:   |      1 oz    |
++-----------------+--------------+
+| Calories:       |      112     |
++-----------------+--------------+
+| Total Fat:      |      8g      |
++-----------------+--------------+
+| Sodium:         |      454mg   |
++-----------------+--------------+
+| Protein:        |      10g     |
++-----------------+--------------+
+| Calcium:        |      336mg   |
++-----------------+--------------+
+| Potassium:      |      26mg    |
++-----------------+--------------+
+
+Parmesan has many health benefits in addition to tasting great [#f2]_.
+
+1. At 10 grams per quarter cup of shredded cheese, it is packed with protein.
+
+2. High in calcium and accounts for about 25% of your daily recommended intake.
+
+3. Lactose-free and thus is a great cheese choice for those with lactose intolerance or sensitivity.
+
+4. Relatively low in fat and has zero carbohydrates.
+
+
+.. [#f1] `Parmesan Cheese <https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2021/08/ParmesanCheese-471343790-770x533-1-650x428.jpg>`_
+
+.. [#f2] `Health Benefits <https://health.clevelandclinic.org/parmesan-cheese-benefits/>`_
+
