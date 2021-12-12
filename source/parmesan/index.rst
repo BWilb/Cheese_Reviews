@@ -97,5 +97,6 @@ Parmesan has many health benefits in addition to tasting great [#f2]_.
 
 .. [#f1] `Parmesan Cheese <https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2021/08/ParmesanCheese-471343790-770x533-1-650x428.jpg>`_
 
-.. [#f2] `Health Benefits <https://health.clevelandclinic.org/parmesan-cheese-benefits/>`_
+.. [#f2] `"Is Parmesan Cheese Healthy?" <https://health.clevelandclinic.org/parmesan-cheese-benefits/>`_
+   Cleveland Clinic, *healthessentials*. 2021. Retrieved 2021-12-11.
 

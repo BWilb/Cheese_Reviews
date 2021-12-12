@@ -92,13 +92,14 @@ such as iron, magnesium, zinc and potassium. However there are some health conce
 with the high cholesterol, saturated fat, and sodium content.
 
 .. warning::
-    Feta should be an occasional indulgence [#f3]_
+    Feta should be an *occasional* indulgence [#f3]_
 
 
 .. [#f1] `Feta Cheese <https://cdn.shopify.com/s/files/1/2836/2982/products/feta-cheese-making-recipe-beginner_grande.jpg?v=1604199344>`_
 
-.. [#f2] `History <http://www.realgreekfeta.gr/history-of-feta/>`_
+.. [#f2] `"History of Feta" <http://www.realgreekfeta.gr/history-of-feta/>`_
+   Real Greek Feta. 2021. Retrieved 2021-12-11.
 
-.. [#f3] `Nutritional Value <http://www.realgreekfeta.gr/nutritional-value/>`_
-
+.. [#f3] `"Nutritional Value" <http://www.realgreekfeta.gr/nutritional-value/>`_
+   Real Greek Feta. 2021. Retrieved 2021-12-11.
 
