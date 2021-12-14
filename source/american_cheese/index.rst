@@ -66,3 +66,4 @@ mac & cheese    pizza
 .. rubric:: footnotes
 
 .. [#f1] "`American Cheese <http://www.simplycheese.net/american-cheese-27.aspx>`_".
+    American Cheese, *Simply Cheese.* 2021. Retrieved 2021-12-14.
